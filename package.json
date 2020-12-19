@@ -1,0 +1,25 @@
+{
+  "name": "react-fetch-hook",
+  "version": "1.0.0",
+  "description": "A simple React hook that can make HTTP calls on component render and when an event handler is called",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erolsmsr58/react-fetch-hook.git"
+  },
+  "keywords": [
+    "javascript",
+    "react",
+    "reactjs",
+    "react-hooks"
+  ],
+  "author": "Erol Simsir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erolsmsr58/react-fetch-hook/issues"
+  },
+  "homepage": "https://github.com/erolsmsr58/react-fetch-hook#readme"
+}
